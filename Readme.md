@@ -1,4 +1,6 @@
->>> npm install
->>> npm start
+npm install
+npm start
 
+Server: /
 Client: /client
+ScreenShots: /screenshots
